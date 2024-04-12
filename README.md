@@ -1,4 +1,4 @@
-# Chosen Country App
+# Choose Country App
 https://anastasiyasam.github.io/show-country-info/
 
 ## Description
